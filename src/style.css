@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(58, 58, 58);
+  padding: 0%;
+  margin: 0%;
+}
+
+.concard{
+  display: flexbox;
+}
+
+.card{
+width: 60%;
+margin: auto;
+display: flexbox;
+}
+
+.card-body{
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+
+.card-img-top{
+  margin-bottom: 1%;
+}
+
+.selectcon{
+  margin: auto;
+  width: 100%;
+}
+
+.concard2{
+  margin-top: 2%;
+  display: flexbox;
+  
+}
+
+.card2{
+  text-align: center;
+  margin: auto;
+  max-width: 50%;
+}
+
+.manualtextbox{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:rgb(255, 201, 25);
+  width: 100%;
+  border-radius: var(--bs-border-radius);
+}
+
+footer{
+  color: rgb(170, 170, 170);
+  text-align: center;
+  background-color: rgb(46, 46, 46);
+  bottom: 0%;
+  position: relative;
+  padding: 0%;
+  width: 100%;
+  position: fixed;
+}
+

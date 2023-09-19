@@ -93,36 +93,36 @@ export default {
           return 'https://promptpay.io/0648432286/156.png';
         case '3':
           this.name = 'บิ๋ม56';
-          this.description = 'เหล้า + mixer 156 บาท';
-          return 'https://promptpay.io/0648432286/156.png';
+          this.description = 'เหล้า + mixer + ค่าธรรมเนียมทำเว็บ x บาท';
+          return 'https://promptpay.io/0648432286/4529199.png';
         case '4':
           this.name = 'หญิง';
           this.description = 'โค้ก 1 ขวด 65 บาท';
-          return 'https://promptpay.io/0648432286/171.png';
+          return 'https://promptpay.io/0648432286/65.png';
         case '5':
           this.name = 'ภูมิ';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         case '6':
           this.name = 'บูม';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         case '7':
           this.name = 'ซอสุดหล่อ';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         case '8':
           this.name = 'ภูหล่อสุด';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         case '9':
           this.name = 'บอสหล่อเกิ้น';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         case '10':
           this.name = 'ไอติม56';
           this.description = 'เหล้า + mixer + French fries 171 บาท';
-          return 'https://promptpay.io/0648432286/65.png';
+          return 'https://promptpay.io/0648432286/171.png';
         default:
           this.name = 'ยังไม่เลือกชื่อ';
           this.description = '';
